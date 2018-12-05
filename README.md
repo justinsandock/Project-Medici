@@ -10,8 +10,15 @@ This repository will house the scripts needed to:
   End User Uploader
   The End User Query GUI
   Trade and Market Analyzers
-  Possibly Distance and Route Calculators
-  
+  Calculate Distance and Routes between Markets
+
+Environment:
+  Python is the scripting language
+  Django may be one of the libraries
+  PyCharm is the IDE
+  Anaconda is the distribution of Python
+  PostGreSQL will be thd DB
+
 Coders for this project include:
   Londo Mollari
   MarsGuyPhil
