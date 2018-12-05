@@ -14,10 +14,12 @@ This repository will house the scripts needed to:
 
 Environment:
   Python is the scripting language
-  Django may be one of the libraries
   PyCharm is the IDE
   Anaconda is the distribution of Python
   PostGreSQL will be thd DB
+  Git is the version control system
+  GitHub is where the scripts are worked on
+  Django may be used for Libraries
 
 Coders for this project include:
   Londo Mollari
