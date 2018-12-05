@@ -17,7 +17,7 @@ Environment:
   PyCharm is the IDE
   Anaconda is the distribution of Python
   PostGreSQL will be thd DB
-  Git is the version control system
+  Git is Heroku's Command Line Interface
   GitHub is where the scripts are worked on
   Django may be used for Libraries
 
