@@ -1,0 +1,8 @@
+nc = NATS()
+await nc.connect(servers=["nats://public:thenewalbiondata@www.albion-online-data.com:4222"])
+
+# Do something with the connection
+
+await nc.close()
+
+# Note - I want to change the nc.connect to a variable eventually
